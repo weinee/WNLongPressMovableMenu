@@ -7,6 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		787651501C19D7AF00E9ABE4 /* LongPressMovableMenu.m in Sources */ = {isa = PBXBuildFile; fileRef = 7876514F1C19D7AF00E9ABE4 /* LongPressMovableMenu.m */; };
+		7876515A1C19D83F00E9ABE4 /* menuBtn_CL.png in Resources */ = {isa = PBXBuildFile; fileRef = 787651521C19D83F00E9ABE4 /* menuBtn_CL.png */; };
+		7876515B1C19D83F00E9ABE4 /* menuBtn_MC.png in Resources */ = {isa = PBXBuildFile; fileRef = 787651531C19D83F00E9ABE4 /* menuBtn_MC.png */; };
+		7876515C1C19D83F00E9ABE4 /* menuBtn_MCB.png in Resources */ = {isa = PBXBuildFile; fileRef = 787651541C19D83F00E9ABE4 /* menuBtn_MCB.png */; };
+		7876515D1C19D83F00E9ABE4 /* menuBtn_option.png in Resources */ = {isa = PBXBuildFile; fileRef = 787651551C19D83F00E9ABE4 /* menuBtn_option.png */; };
+		7876515E1C19D83F00E9ABE4 /* menuBtn_RN.png in Resources */ = {isa = PBXBuildFile; fileRef = 787651561C19D83F00E9ABE4 /* menuBtn_RN.png */; };
+		7876515F1C19D83F00E9ABE4 /* menuIcon_close.png in Resources */ = {isa = PBXBuildFile; fileRef = 787651571C19D83F00E9ABE4 /* menuIcon_close.png */; };
+		787651601C19D83F00E9ABE4 /* menuIcon_moving.png in Resources */ = {isa = PBXBuildFile; fileRef = 787651581C19D83F00E9ABE4 /* menuIcon_moving.png */; };
+		787651611C19D83F00E9ABE4 /* menuIcon_open.png in Resources */ = {isa = PBXBuildFile; fileRef = 787651591C19D83F00E9ABE4 /* menuIcon_open.png */; };
 		A7445A0E1BE8467400090AF1 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A7445A0D1BE8467400090AF1 /* main.m */; };
 		A7445A111BE8467400090AF1 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A7445A101BE8467400090AF1 /* AppDelegate.m */; };
 		A7445A141BE8467400090AF1 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A7445A131BE8467400090AF1 /* ViewController.m */; };
@@ -27,6 +36,16 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		7876514E1C19D7AF00E9ABE4 /* LongPressMovableMenu.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LongPressMovableMenu.h; sourceTree = "<group>"; };
+		7876514F1C19D7AF00E9ABE4 /* LongPressMovableMenu.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LongPressMovableMenu.m; sourceTree = "<group>"; };
+		787651521C19D83F00E9ABE4 /* menuBtn_CL.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = menuBtn_CL.png; sourceTree = "<group>"; };
+		787651531C19D83F00E9ABE4 /* menuBtn_MC.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = menuBtn_MC.png; sourceTree = "<group>"; };
+		787651541C19D83F00E9ABE4 /* menuBtn_MCB.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = menuBtn_MCB.png; sourceTree = "<group>"; };
+		787651551C19D83F00E9ABE4 /* menuBtn_option.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = menuBtn_option.png; sourceTree = "<group>"; };
+		787651561C19D83F00E9ABE4 /* menuBtn_RN.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = menuBtn_RN.png; sourceTree = "<group>"; };
+		787651571C19D83F00E9ABE4 /* menuIcon_close.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = menuIcon_close.png; sourceTree = "<group>"; };
+		787651581C19D83F00E9ABE4 /* menuIcon_moving.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = menuIcon_moving.png; sourceTree = "<group>"; };
+		787651591C19D83F00E9ABE4 /* menuIcon_open.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = menuIcon_open.png; sourceTree = "<group>"; };
 		A7445A081BE8467400090AF1 /* 自定义导航菜单.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "自定义导航菜单.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A7445A0C1BE8467400090AF1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A7445A0D1BE8467400090AF1 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -60,6 +79,31 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		7876514D1C19D66300E9ABE4 /* WNLongPressMovableMenu */ = {
+			isa = PBXGroup;
+			children = (
+				787651511C19D7E100E9ABE4 /* images-example */,
+				7876514E1C19D7AF00E9ABE4 /* LongPressMovableMenu.h */,
+				7876514F1C19D7AF00E9ABE4 /* LongPressMovableMenu.m */,
+			);
+			name = WNLongPressMovableMenu;
+			sourceTree = "<group>";
+		};
+		787651511C19D7E100E9ABE4 /* images-example */ = {
+			isa = PBXGroup;
+			children = (
+				787651521C19D83F00E9ABE4 /* menuBtn_CL.png */,
+				787651531C19D83F00E9ABE4 /* menuBtn_MC.png */,
+				787651541C19D83F00E9ABE4 /* menuBtn_MCB.png */,
+				787651551C19D83F00E9ABE4 /* menuBtn_option.png */,
+				787651561C19D83F00E9ABE4 /* menuBtn_RN.png */,
+				787651571C19D83F00E9ABE4 /* menuIcon_close.png */,
+				787651581C19D83F00E9ABE4 /* menuIcon_moving.png */,
+				787651591C19D83F00E9ABE4 /* menuIcon_open.png */,
+			);
+			name = "images-example";
+			sourceTree = "<group>";
+		};
 		A74459FF1BE8467400090AF1 = {
 			isa = PBXGroup;
 			children = (
@@ -81,6 +125,7 @@
 		A7445A0A1BE8467400090AF1 /* 自定义导航菜单 */ = {
 			isa = PBXGroup;
 			children = (
+				7876514D1C19D66300E9ABE4 /* WNLongPressMovableMenu */,
 				A7445A0F1BE8467400090AF1 /* AppDelegate.h */,
 				A7445A101BE8467400090AF1 /* AppDelegate.m */,
 				A7445A121BE8467400090AF1 /* ViewController.h */,
@@ -199,9 +244,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7876515A1C19D83F00E9ABE4 /* menuBtn_CL.png in Resources */,
+				7876515F1C19D83F00E9ABE4 /* menuIcon_close.png in Resources */,
+				7876515E1C19D83F00E9ABE4 /* menuBtn_RN.png in Resources */,
 				A7445A171BE8467400090AF1 /* Main.storyboard in Resources */,
+				7876515C1C19D83F00E9ABE4 /* menuBtn_MCB.png in Resources */,
 				A7445A1C1BE8467400090AF1 /* LaunchScreen.xib in Resources */,
+				7876515D1C19D83F00E9ABE4 /* menuBtn_option.png in Resources */,
+				7876515B1C19D83F00E9ABE4 /* menuBtn_MC.png in Resources */,
 				A7445A191BE8467400090AF1 /* Images.xcassets in Resources */,
+				787651611C19D83F00E9ABE4 /* menuIcon_open.png in Resources */,
+				787651601C19D83F00E9ABE4 /* menuIcon_moving.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -220,6 +273,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A7445A141BE8467400090AF1 /* ViewController.m in Sources */,
+				787651501C19D7AF00E9ABE4 /* LongPressMovableMenu.m in Sources */,
 				A7445A111BE8467400090AF1 /* AppDelegate.m in Sources */,
 				A7445A0E1BE8467400090AF1 /* main.m in Sources */,
 			);
@@ -418,6 +472,7 @@
 				A7445A2D1BE8467400090AF1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A7445A2E1BE8467400090AF1 /* Build configuration list for PBXNativeTarget "自定义导航菜单Tests" */ = {
 			isa = XCConfigurationList;
@@ -426,6 +481,7 @@
 				A7445A301BE8467400090AF1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>35953342-9C07-40BC-BDAC-3AF9E8D6D585</string>
+	<key>IDESourceControlProjectName</key>
+	<string>自定义导航菜单</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>96ADF0014589FD6251213CECBFAD023F62168BF2</key>
+		<string>https://github.com/weinee/WNLongPressMovableMenu.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>自定义导航菜单.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>96ADF0014589FD6251213CECBFAD023F62168BF2</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/weinee/WNLongPressMovableMenu.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>96ADF0014589FD6251213CECBFAD023F62168BF2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>96ADF0014589FD6251213CECBFAD023F62168BF2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>WNLongPressMovableMenu</string>
+		</dict>
+	</array>
+</dict>
+</plist>
